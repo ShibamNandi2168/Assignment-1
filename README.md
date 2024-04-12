@@ -14,7 +14,7 @@
 </ul>
 
 <h3>Final Result</h3>
-The result is <a style ="text-decoration:none" href = "https://drive.google.com/file/d/1LbwqiCTWL-KESmYCVOqrCf5Eomqz2iOJ/view?usp=sharing"> here 👈</a>
+The result is <a style ="text-decoration:none" href = "https://drive.google.com/file/d/1LbwqiCTWL-KESmYCVOqrCf5Eomqz2iOJ/view?usp=sharing"> click Here 👈</a>
 
 <h3>Accuracy of The Model</h3>
-The Accuracy is <a style ="https://drive.google.com/file/d/1FBsTIry4X2pjdzexOc9zYCrQa_mibFqB/view?usp=sharing"> here 👈</a>
+The Accuracy is <a style ="text-decoration:none" href = "https://drive.google.com/file/d/1FBsTIry4X2pjdzexOc9zYCrQa_mibFqB/view?usp=sharing"> click Here 👈</a>
